@@ -1,0 +1,8 @@
+* {
+  background-color: #fdf6e3; /* Нежно-кремовый оттенок */
+  color: #333; /* Цвет текста для хорошей читаемости */
+  text-align: center; /* Центрирование текста */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Приятный шрифт */
+  margin: 0;
+  padding: 0;
+}
